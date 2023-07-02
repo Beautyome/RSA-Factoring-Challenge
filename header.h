@@ -72,6 +72,8 @@ private:
 		}
 
 		cout << line << "=" << res << "*" << x << endl;
+	}
+
 	/**
 	 * @brief Handle small numbers
 	 *
